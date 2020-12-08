@@ -1,0 +1,10 @@
+server:
+  port: 3344
+
+eureka:
+  client:
+    fetch-registry: true
+    register-with-eureka: true
+    service-url:
+      defaultZone: http://localhost:7001/eureka
+      name: 你好啊,这里是spring cloud config仓库master分支的的config-dev.yml文件内容
