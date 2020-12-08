@@ -7,4 +7,4 @@ eureka:
     register-with-eureka: true
     service-url:
       defaultZone: http://localhost:7001/eureka
-      name: hello,this is spring cloud config repository, master branch's config-dev.yml file contents
+      name: "hello,this is spring cloud config repository, master branch's config-dev.yml file contents. version2"
